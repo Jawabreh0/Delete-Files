@@ -1,4 +1,4 @@
-# Delete files / Delete training data labels for AI projects
+Delete training data labels for AI projects
 This script can be used to delete a set of files in a directory, given a specific file extension, it's main use case to delete the lebels of the training data in AI projects.
 
 ## Prerequisites
